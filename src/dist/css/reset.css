@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+}
+
+html {
+  font-size: 62.5%;
+  font-family: 'Inter', sans-serif;
+}
+
+button {
+  border: 0;
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.container {
+  width: 100%;
+  max-width: 1246px;
+  margin: 0 auto;
+
+  padding: 0 15px;
+}
+
+
+:root {
+  --brand-colors-pink: #F67ACB;
+  --gray-colors-50: #E6EBF2;
+  --gray-colors-100: #050110;
+  --gray-colors-200: #1C1D1F;
+  --gray-colors-300: #393C40;
+  --gray-colors-600: #ACB4BF;
+  --gray-colors-800: #F7F8FA;
+
+  --white: #fff;
+  --black: #000;
+}

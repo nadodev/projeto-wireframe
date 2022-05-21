@@ -1,0 +1,58 @@
+/* TITULOS */
+
+h1,
+h2,
+h3 {
+  font-family: 'Sora'sans-serif;
+  font-weight: 600;
+  line-height: 125%;
+  letter-spacing: -1px;
+  color: var(--white)
+}
+
+h1 {
+  font-size: 4.8rem;
+  color: var(--gray-colors-100);
+}
+
+h2 {
+  font-size: 3.2rem;
+}
+
+h3 {
+  font-size: 2.4rem;
+}
+
+
+/* BUTTONS */
+.btn-primary,
+.btn-link {
+  display: inline-block;
+  padding: 1.2rem 3.4rem;
+  font-family: 'Sora';
+  letter-spacing: -0.01em;
+}
+
+.btn-primary {
+  background-color: var(--brand-colors-pink);
+  font-weight: 600;
+  font-size: 1.6rem;
+  color: var(--gray-colors-100);
+}
+
+.btn-link {
+  background-color: var(--gray-colors-50);
+  font-weight: 400;
+  font-size: 1.5rem;
+  line-height: 105%;
+  color: var(--gray-colors-300);
+}
+
+.gap {
+  gap: 3.2rem;
+}
+
+.flex-center {
+  display: flex;
+  align-items: center;
+}
