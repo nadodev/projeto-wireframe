@@ -3,7 +3,7 @@
   background-color: #F7F8FA;
   width: 100%;
   position: fixed;
-  box-shadow: 0 4px 5px rgba(0, 0, 0, 0.1)
+  box-shadow: 0 5px 12px rgba(0, 0, 0, 0.1)
 }
 
 .btn-mobile {
@@ -20,6 +20,8 @@
 
 /** HERO */
 .s-hero {
+  padding-top: 8rem;
+
   min-height: 64rem;
 }
 
@@ -86,6 +88,12 @@ h2 {
   justify-content: center;
   flex-direction: column;
   text-align: center;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
+}
+
+.s-destaque__cards:hover {
+  transform: scale(1.05);
 }
 
 .s-destaque__box {
@@ -156,8 +164,13 @@ h2 {
   background-color: var(--gray-colors-200);
 
   justify-content: center;
+  transition: all 0.3s ease-in-out;
+  cursor: pointer;
 }
 
+.s-destaque--cards:hover {
+  transform: scale(1.05);
+}
 
 /**CALL TO ACTION */
 

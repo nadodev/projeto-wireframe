@@ -38,6 +38,16 @@ h3 {
   font-weight: 600;
   font-size: 1.6rem;
   color: var(--gray-colors-100);
+  transition: all 0.5s ease-in-out;
+  border: 1px solid var(--brand-colors-pink);
+
+}
+
+.btn-primary:hover {
+
+  border: 1px solid var(--brand-colors-pink);
+  color: var(--brand-colors-pink);
+  background-color: transparent;
 }
 
 .btn-link {
@@ -46,6 +56,14 @@ h3 {
   font-size: 1.5rem;
   line-height: 105%;
   color: var(--gray-colors-300);
+  transition: all 0.5s ease-in-out;
+
+}
+
+.btn-link:hover {
+
+  background-color: var(--black);
+  color: var(--white);
 }
 
 .gap {
