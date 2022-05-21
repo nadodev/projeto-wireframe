@@ -4,7 +4,7 @@ Esse projeto, foi feito com:
 
 ## 🔗 Links
 
-[![Deploy](www.wireframe.leonardogeja.dev.br)](www.wireframe.leonardogeja.dev.br/)
+[![Deploy](http://wireframe.leonardogeja.dev.br)](http://wireframe.leonardogeja.dev.br/)
 
 ## Funcionalidades
 
