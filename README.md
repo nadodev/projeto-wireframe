@@ -2,9 +2,9 @@
 
 Esse projeto, foi feito com:
 
-## Referência
+## 🔗 Links
 
-- [Deploy](http://wireframe.leonardogeja.dev.br?target=_blank)
+[![Deploy](www.wireframe.leonardogeja.dev.br)](www.wireframe.leonardogeja.dev.br/)
 
 ## Funcionalidades
 
