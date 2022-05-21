@@ -4,7 +4,7 @@ Esse projeto, foi feito com:
 
 ## Referência
 
-- [Deploy](http://wireframe.leonardogeja.dev.br)
+- [Deploy](http://wireframe.leonardogeja.dev.br){:target="\_blank"}
 
 ## Funcionalidades
 
