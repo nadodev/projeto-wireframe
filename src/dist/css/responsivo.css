@@ -22,6 +22,31 @@
     display: none;
   }
 
+  .nav__list.active {
+    position: absolute;
+    top: 85px;
+    left: 0;
+    width: 100%;
+    height: calc(100vh - 85px);
+    background-color: var(--gray-colors-100);
+    z-index: 100;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+  }
+
+  .nav__list.active .nav__link {
+    background-color: transparent;
+    display: block;
+    color: var(--white);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+  }
+
   .btn-mobile {
     display: block;
   }
